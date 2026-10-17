@@ -1,0 +1,9 @@
+# Generated reports may contain device or user information
+reports/*
+!reports/.gitkeep
+
+# VS Code / Windows
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
